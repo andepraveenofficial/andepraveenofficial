@@ -75,6 +75,3 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
