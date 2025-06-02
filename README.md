@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about creati
 
 - 🔭 Full Stack Developer with a focus on MERN stack
 - 🌱 Continuously learning and adapting to new technologies
-- 👨‍💼 Combining technical skills with business acumen
 - 🎯 Goal-oriented and committed to delivering high-quality solutions
 
 ## 🛠️ Tech Stack
